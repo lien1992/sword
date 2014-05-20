@@ -8,8 +8,8 @@ public class Hello {
 		// TODO Auto-generated method stub
 		for(int i=3;i>0;i--){
 			for(int i1=3;i1>0;i1--){
-				System.out.println("hello world!");
-				System.out.println("hello nihao!");
+				
+				System.out.println("hello zhiliao");
 	                      
 			}
 		}
