@@ -6,8 +6,9 @@ public class Hello {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("hello world!");
-
+		for(int i=3;i>0;i--){
+			System.out.println("hello world!");
+		}
 	}
 
 }
