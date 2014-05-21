@@ -9,7 +9,7 @@ public class Hello {
 			for(int i1=3;i1>0;i1--){
 				
 				System.out.println("world zhiliao");
-	                      	System.out.println("world zhiliao");
+	                      	System.out.println("zhiliao");
 
 			}
 	}
