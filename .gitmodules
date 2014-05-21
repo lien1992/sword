@@ -1,0 +1,3 @@
+[submodule "/smilefish"]
+	path = /smilefish
+	url = https://github.com/lien1992/smilefish.git
