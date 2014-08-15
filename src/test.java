@@ -11,6 +11,7 @@ public class test {
                for(int i=4;i<9;i++){
                	j++;
                 System.err.println("Number"+j+"  Error !");
+                System.err.println("Number"+j+"  Error !");
                }
               
 	}
