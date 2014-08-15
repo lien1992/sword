@@ -12,6 +12,7 @@ public class test {
                	j++;
                 System.err.println("Number"+j+"  Error !");
                 System.err.println("Number"+j+"  Error !");
+                System.err.println("Number"+j+"  Error !");
                }
               
 	}
